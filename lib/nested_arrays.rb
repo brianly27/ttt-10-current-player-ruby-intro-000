@@ -55,3 +55,5 @@ def collection(music_libary)
     end
   end
 end
+
+collection(music_library)
