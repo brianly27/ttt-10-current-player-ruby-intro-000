@@ -33,6 +33,6 @@ def collection(music_libary)
           end
         end
       end
-    end
+    
   end
 end
